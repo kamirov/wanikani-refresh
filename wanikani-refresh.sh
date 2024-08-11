@@ -3,7 +3,7 @@
 # == Inputs
 prefix=wanikani-wallpaper
 wanikani_api_token="<YOUR_API_KEY>"    # Generate this via WaniKani
-device_num=1                         # Only change this if you're managing multiple wallpapers via the generator
+device_num=1                           # Only change this if you're managing multiple wallpapers via the generator
 
 # == Implementation
 
