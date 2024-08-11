@@ -22,3 +22,7 @@ $ crontab -e
 ```
 
 The script will now recreate a new wallpaper (with a timestamped name) regularly. To have your wallpaper automatically update to pick up the new image, set your wallpaper to be a slideshow of the script's directory. This way, it will update regularly, picking up the new wallpaper image when it becomes available
+
+## Issues
+
+If your `output_dir` is a cloud location (e.g. a Google Drive folder), the script fails to delete files, but has no issues adding them. Dropped a couple hours on this one and can't figure out, so just leaving it for now.
