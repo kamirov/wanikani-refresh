@@ -11,7 +11,7 @@ Simple script to reload a WaniKani wallpaper (using the [Natural 20 Design gener
 
 ## Automatic refreshes
 
-To refresh your wallpaper, run the script in a cronjob, e.g. to run each day at 9am (assuming you're logged in then):
+To refresh your wallpaper, run the script as a cronjob, e.g. to run each day at 9am (assuming you're logged in then):
 
 ```
 $ crontab -e
