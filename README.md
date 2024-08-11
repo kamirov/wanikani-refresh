@@ -1,6 +1,8 @@
 # wanikani-refresh
 Simple script to reload a WaniKani wallpaper (using the [Natural 20 Design generator](https://wkw.natural20design.com/)) based on your current progress
 
+<img width="562" alt="image" src="https://github.com/user-attachments/assets/3e1a1d9b-020e-44e6-9a92-cac6f3c09f6c">
+
 ## Usage
 
 1. Generate a [WaniKani API token](https://www.wanikani.com/settings/personal_access_tokens)
